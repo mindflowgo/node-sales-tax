@@ -22,12 +22,14 @@ _[Up to date currencies](https://www.unicode.org/cldr/charts/42/supplemental/det
 <td align="center"><a href="https://locize.com/"><img src="https://valeriansaliou.github.io/node-sales-tax/images/locize.png" width="64" /></a></td>
 <td align="center"><a href="https://turnshift.app/"><img src="https://valeriansaliou.github.io/node-sales-tax/images/turnshift.png" width="64" /></a></td>
 <td align="center"><a href="https://tally.so/"><img src="https://valeriansaliou.github.io/node-sales-tax/images/tally.png" width="64" /></a></td>
+<td align="center"><a href="https://zerocrat.com/"><img src="https://zerocrat.com/assets/img/hero-logo.png" width="64" /></a></td>
 </tr>
 <tr>
 <td align="center">Crisp</td>
 <td align="center">Locize</td>
 <td align="center">TurnShift</td>
 <td align="center">Tally</td>
+<td align="center">Zerocrat</td>
 </tr>
 </table>
 
